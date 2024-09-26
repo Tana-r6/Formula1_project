@@ -96,7 +96,7 @@
               <p class="text-lg font-semibold mb-4 flex justify-center">Miami</p>
               <p class="text-lg font-semibold mb-4 flex justify-center">Austin</p>
             </div>
-            <button id="closeModalBtn1" class="bg-red-500 hover:bg-red-500 text-white py-2 px-4 rounded hidden">
+            <button id="closeModalBtn1" class="bg-red-500 hover:bg-red-700 text-white py-2 px-4 rounded hidden">
               Close
             </button>
           </div>
