@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
         // Previous month's empty cells
         for (let i = 0; i < firstDay; i++) {
-            calendarDays.innerHTML += '<div class="w-1/7 h-24 border-b border-l"></div>';
+            calendarDays.innerHTML += '<div class="w-1/7 h-[104px] border-b border-l"></div>';
         }
     
         // Current month's days
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const eventList = dayEvents.map(event => `<div>${event}</div>`).join('');
     
             calendarDays.innerHTML += `
-                <div class="w-1/7 h-24 border-b border-l">
+                <div class="w-1/7 h-[104px] border-b border-l">
                     <div class="text-center text-gray-700">${i}</div>
                     <div class="py-4 text-center text-sm text-red-600">${eventList}</div>
                 </div>`;
@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const totalCells = firstDay + daysInMonth;
         const nextMonthCells = (totalCells % 7) === 0 ? 0 : 7 - (totalCells % 7);
         for (let i = 0; i < nextMonthCells; i++) {
-            calendarDays.innerHTML += '<div class="w-1/7 h-24 border-b border-l"></div>';
+            calendarDays.innerHTML += '<div class="w-1/7 h-[104px] border-b border-l"></div>';
         }
     }
 
