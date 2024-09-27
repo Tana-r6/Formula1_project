@@ -31,7 +31,7 @@
             <div class="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
               <div class="lg:pr-4">
                 <div class="max-w-xl text-base leading-7 text-gray-700 lg:max-w-lg">
-                  <p> Wether you're already a fan of F1 or youre looking for the thrill that only this sport offers, this website is perfect for all of this seasons information to reel you into the action.</p>
+                  <p> Wether you're already a fan of F1 or you're looking for the thrill that only this sport offers, this website is perfect for all of this seasons information to reel you into the action.</p>
                   <ul role="list" class="mt-8 space-y-8 text-gray-600">
                     <li class="flex gap-x-3">
                       <svg class="mt-1 h-5 w-5 flex-none text-red-600"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  
