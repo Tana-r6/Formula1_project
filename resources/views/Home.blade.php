@@ -59,12 +59,9 @@
                     </li>
                     <li class="flex gap-x-3">
                       <svg class="mt-1 h-5 w-5 flex-none text-red-600"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                        <path stroke="none" d="M0 0h24v24H0z"/>
-                        <circle cx="12" cy="12" r="9" />
-                        <path d="M14.8 9a2 2 0 0 0 -1.8 -1h-2a2 2 0 0 0 0 4h2a2 2 0 0 1 0 4h-2a2 2 0 0 1 -1.8 -1" />
-                        <path d="M12 6v2m0 8v2" />
+                        <path stroke="none" d="M0 0h24v24H0z"/> <circle cx="12" cy="12" r="9" /> <path d="M14.8 9a2 2 0 0 0 -1.8 -1h-2a2 2 0 0 0 0 4h2a2 2 0 0 1 0 4h-2a2 2 0 0 1 -1.8 -1" /> <path d="M12 6v2m0 8v2" />
                       </svg>
-                      <span><strong class="font-semibold text-gray-900">Expensive:</strong> F1 is the most expensive sport in the world, with the cars being worth upwards of £15,000,000 and parts like the steering wheel are £50,000. Each team has £135,000,000 to spend a year for upgrading the car to reach its potential. Drivers have huge paychecks ranging from £1,000,000 for the worst drivers and £55,000,000 for drivers like Lewis Hamilton.</span>
+                      <span><strong class="font-semibold text-gray-900">Expensive:</strong> F1 is the most expensive sport in the world, with the cars being worth upwards of £15,000,000 and parts like the steering wheel are £50,000. Each team has £135,000,000 to spend a year for upgrading the car to reach its potential. Drivers have huge paychecks ranging from £1,000,000 for the lesser drivers and £55,000,000 for drivers like Lewis Hamilton.</span>
                     </li>
                   </ul>
                   <p class="mt-8">Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.</p>
@@ -165,7 +162,7 @@
                 <div class="lg:max-w-lg">
                   <p class="text-base font-semibold leading-7 text-red-600 md:italic">F1</p>
                   <a href="/teams"><h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 hover:text-red-600 sm:text-4xl">The Teams</h1></a>
-                  <p class="mt-6 text-xl leading-8 text-gray-700"> The 20 best drivers in the world line up on the starting line only 24 times a year and prove why they have a seat in the sport.</p>
+                  <p class="mt-6 text-xl leading-8 text-gray-700"> 10 teams battle on the field for championships every year, attempting to hire the best drivers and engineers possible.</p>
                 </div>
               </div>
             </div>
@@ -178,37 +175,34 @@
                   <p></p>
                   <ul role="list" class="mt-8 space-y-8 text-gray-600">
                     <li class="flex gap-x-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-	                      <path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18.5A2.493 2.493 0 0 1 7.51 20H7.5a2.468 2.468 0 0 1-2.4-3.154a2.98 2.98 0 0 1-.85-5.274a2.47 2.47 0 0 1 .92-3.182a2.477 2.477 0 0 1 1.876-3.344a2.5 2.5 0 0 1 3.41-1.856A2.5 2.5 0 0 1 12 5.5m0 13v-13m0 13a2.493 2.493 0 0 0 4.49 1.5h.01a2.468 2.468 0 0 0 2.403-3.154a2.98 2.98 0 0 0 .847-5.274a2.47 2.47 0 0 0-.921-3.182a2.477 2.477 0 0 0-1.875-3.344A2.5 2.5 0 0 0 14.5 3A2.5 2.5 0 0 0 12 5.5m-8 5a2.5 2.5 0 0 1 3.48-2.3m-.28 8.551a3 3 0 0 1-2.953-5.185M20 10.5a2.5 2.5 0 0 0-3.481-2.3m.28 8.551a3 3 0 0 0 2.954-5.185" />
+                      <svg class="mt-1 h-5 w-5 flex-none text-red-600"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z"/>  <polyline points="6 21 21 6 18 3 3 18 6 21" />  <line x1="15" y1="6" x2="18" y2="9" />  <path d="M9 3a2 2 0 0 0 2 2a2 2 0 0 0 -2 2a2 2 0 0 0 -2 -2a2 2 0 0 0 2 -2" />  <path d="M19 13a2 2 0 0 0 2 2a2 2 0 0 0 -2 2a2 2 0 0 0 -2 -2a2 2 0 0 0 2 -2" />
                       </svg>
-                      <span><strong class="font-semibold text-gray-900">Drag Reduction System:</strong> The DRS allows drivers to achieve higher speeds by opening the rear wing and allowing more air through which reduces drag. Drivers can use this system on certain straights when they are within 1 second of the car in front. If the DRS were to fail and not open it could cost the driver the chance of overtaking and maybe even the whole grand prix. If it failed and didnt close in time, it could be dangerous for the driver and cause them to crash (2018 marcus ericsson @Monza). </span>
+                      <span><strong class="font-semibold text-gray-900">Magic:</strong> Formula 1 engineers, like Adrian Newey, are seen as magicians of the sport due to their ability to push the limits of technology and innovation under strict regulations. Their work involves mastering aerodynamics, materials science, and computational fluid dynamics to create cars capable of incredible speed and precision. Unlike other sports, where physical skill often prevails, F1 is driven by the intellectual prowess of engineers who constantly invent new solutions that give teams a competitive edge. Their dazzling intellect makes F1 not just a race of drivers but a battle of engineering brilliance.</span>
                     </li>
                     <li class="flex gap-x-3">
                       <svg class="mt-1 h-5 w-5 flex-none text-red-600"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                         <path stroke="none" d="M0 0h24v24H0z"/>  <path d="M6 7h11a2 2 0 0 1 2 2v.5a.5 .5 0 0 0 .5 .5a.5 .5 0 0 1 .5 .5v3a.5 .5 0 0 1 -.5 .5a.5 .5 0 0 0 -.5 .5v.5a2 2 0 0 1 -2 2h-11a2 2 0 0 1 -2 -2v-6a2 2 0 0 1 2 -2" />  <line x1="7" y1="10" x2="7" y2="14" />  <line x1="10" y1="10" x2="10" y2="14" />  <line x1="13" y1="10" x2="13" y2="14" />
                       </svg>
-                      <span><strong class="font-semibold text-gray-900">Energy Recovery System:</strong> Drivers have access to ERS at any point in the race as long as they have enough charge to use it. ERS consists of two main units; The MGU-H, which harvests thermal energy from exhaust fumes & the MGU-K, which harvests kinetic energy from the crankshaft while braking or coasting. Drivers can choose strategically when to activate the system for either attacking or defending.</span>
+                      <span><strong class="font-semibold text-gray-900">Strategy:</strong> Drivers have access to ERS at any point in the race as long as they have enough charge to use it. ERS consists of two main units; The MGU-H, which harvests thermal energy from exhaust fumes & the MGU-K, which harvests kinetic energy from the crankshaft while braking or coasting. Drivers can choose strategically when to activate the system for either attacking or defending.</span>
                     </li>
                     <li class="flex gap-x-3">
                       <svg class="mt-1 h-5 w-5 flex-none text-red-600"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                         <path stroke="none" d="M0 0h24v24H0z"/>  <path d="M6 5h12l3 5l-8.5 9.5a.7 .7 0 0 1 -1 0l-8.5 -9.5l3 -5" />  <path d="M10 12l-2 -2.2l.6 -1" />
                       </svg>
-                      <span><strong class="font-semibold text-gray-900">Exclusive:</strong> F1 is the most exclusive sport in the world. It's the only sport of its kind, with the fastest and most innovative racing technology available, it doesnt get more unique. The sport only boasts 24 events throughout the year, compared to the world cup which has 104 games. Only the 20 best drivers in the world can redeem a spot in the sport, solidifying it as the hardest sport to get into.</span>
+                      <span><strong class="font-semibold text-gray-900">Pit Stops:</strong> F1 is the most exclusive sport in the world. It's the only sport of its kind, with the fastest and most innovative racing technology available, it doesnt get more unique. The sport only boasts 24 events throughout the year, compared to the world cup which has 104 games. Only the 20 best drivers in the world can redeem a spot in the sport, solidifying it as the hardest sport to get into.</span>
                     </li>
                     <li class="flex gap-x-3">
                       <svg class="mt-1 h-5 w-5 flex-none text-red-600"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" />  <line x1="12" y1="9" x2="12" y2="13" />  <line x1="12" y1="17" x2="12.01" y2="17" />
                       </svg>
-                      <span><strong class="font-semibold text-gray-900">Danger:</strong> F1 is one of the most dangerous sports in the world. The rocket ships of cars reach speeds of 220 mph on long straights and sustain up to 5g's on high speed corners. The battles on track pose danger to drivers due to the proximity that they race at, and a small impact can send drivers flying into walls (Max Verstappens 51g crash in Silverstone after coliding with hamilton).</span>
+                      <span><strong class="font-semibold text-gray-900">Roles:</strong> F1 is one of the most dangerous sports in the world. The rocket ships of cars reach speeds of 220 mph on long straights and sustain up to 5g's on high speed corners. The battles on track pose danger to drivers due to the proximity that they race at, and a small impact can send drivers flying into walls (Max Verstappens 51g crash in Silverstone after coliding with hamilton).</span>
                     </li>
                     <li class="flex gap-x-3">
                       <svg class="mt-1 h-5 w-5 flex-none text-red-600"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                        <path stroke="none" d="M0 0h24v24H0z"/>
-                        <circle cx="12" cy="12" r="9" />
-                        <path d="M14.8 9a2 2 0 0 0 -1.8 -1h-2a2 2 0 0 0 0 4h2a2 2 0 0 1 0 4h-2a2 2 0 0 1 -1.8 -1" />
-                        <path d="M12 6v2m0 8v2" />
+                        <path stroke="none" d="M0 0h24v24H0z"/> <circle cx="12" cy="12" r="9" /> <path d="M14.8 9a2 2 0 0 0 -1.8 -1h-2a2 2 0 0 0 0 4h2a2 2 0 0 1 0 4h-2a2 2 0 0 1 -1.8 -1" /> <path d="M12 6v2m0 8v2" />
                       </svg>
-                      <span><strong class="font-semibold text-gray-900">Expensive:</strong> F1 is the most expensive sport in the world, with the cars being worth upwards of £15,000,000 and parts like the steering wheel are £50,000. Each team has £135,000,000 to spend a year for upgrading the car to reach its potential. Drivers have huge paychecks ranging from £1,000,000 for the lesser drivers and £55,000,000 for drivers like Lewis Hamilton.</span>
+                      <span><strong class="font-semibold text-gray-900">Teamwork:</strong> F1 is the most expensive sport in the world, with the cars being worth upwards of £15,000,000 and parts like the steering wheel are £50,000. Each team has £135,000,000 to spend a year for upgrading the car to reach its potential. Drivers have huge paychecks ranging from £1,000,000 for the lesser drivers and £55,000,000 for drivers like Lewis Hamilton.</span>
                     </li>
                   </ul>
                   <p class="mt-8">Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.</p>
