@@ -5,14 +5,14 @@
 
 <div class="bg-white">
   <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-3 lg:max-w-7xl lg:px-8">
-    <div class="grid gap-x-6 gap-y-6 grid-cols-4">
+    <div class="grid gap-x-6 gap-y-6 grid-cols-3">
       
       <div class="container mx-auto mt-0">
         <div class="group">
           <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
-                <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
+                <img src="https://sices.eu/wp-content/uploads/2023/06/YasMarina_ReferenzeSices2-min.png" alt="Abu Dhabi" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
@@ -26,7 +26,7 @@
           <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
-                <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
+                <img src="https://pbs.twimg.com/media/FsgoMabWwAA6oCd?format=jpg&name=medium" alt="Australia" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
@@ -40,7 +40,7 @@
           <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
-                <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
+                <img src="https://img.kleinezeitung.at/public/incoming/fao1or-AdobeStock_373534189_Editorial_Use_Only_1656506136199435.jpg/alternates/SQUARE_1200/AdobeStock_373534189_Editorial_Use_Only_1656506136199435.jpg" alt="Austria" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
