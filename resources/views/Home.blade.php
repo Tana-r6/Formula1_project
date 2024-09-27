@@ -25,8 +25,8 @@
                 </div>
               </div>
             </div>
-            <div class="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
-              <img class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[45rem]" src="https://static.independent.co.uk/2024/03/04/14/GettyImages-1388042845.jpg?width=1200&height=1200&fit=crop" alt="">
+            <div class="-ml-12 -mt-12 px-10 pb-4 pt-20 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
+              <img class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-lg ring-1 ring-gray-400/10 sm:w-[45rem]" src="https://static.independent.co.uk/2024/03/04/14/GettyImages-1388042845.jpg?width=1200&height=1200&fit=crop" alt="">
             </div>
             <div class="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
               <div class="lg:pr-4">
@@ -97,8 +97,8 @@
                 </div>
               </div>
             </div>
-            <div class="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
-              <img class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[45rem]" src="https://menshealth.com.au/wp-content/uploads/2024/02/428486507_682479900763572_2389224458931488982_n.jpg" alt="">
+            <div class="-ml-12 -mt-12 px-10 pb-4 pt-20 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
+              <img class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-lg ring-1 ring-gray-400/10 sm:w-[45rem]" src="https://menshealth.com.au/wp-content/uploads/2024/02/428486507_682479900763572_2389224458931488982_n.jpg" alt="">
             </div>
             <div class="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
               <div class="lg:pr-4">
@@ -169,8 +169,8 @@
                 </div>
               </div>
             </div>
-            <div class="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
-              <img class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[45rem]" src="https://i.redd.it/7f0p24jxcsa91.jpg" alt="">
+            <div class="-ml-12 -mt-12 px-10 pb-4 pt-20 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
+              <img class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-lg ring-1 ring-gray-400/10 sm:w-[45rem]" src="https://i.redd.it/7f0p24jxcsa91.jpg" alt="">
             </div>
             <div class="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
               <div class="lg:pr-4">
@@ -178,8 +178,8 @@
                   <p></p>
                   <ul role="list" class="mt-8 space-y-8 text-gray-600">
                     <li class="flex gap-x-3">
-                      <svg class="mt-1 h-5 w-5 flex-none text-red-600"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  
-                        <path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12H2" >
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	                      <path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18.5A2.493 2.493 0 0 1 7.51 20H7.5a2.468 2.468 0 0 1-2.4-3.154a2.98 2.98 0 0 1-.85-5.274a2.47 2.47 0 0 1 .92-3.182a2.477 2.477 0 0 1 1.876-3.344a2.5 2.5 0 0 1 3.41-1.856A2.5 2.5 0 0 1 12 5.5m0 13v-13m0 13a2.493 2.493 0 0 0 4.49 1.5h.01a2.468 2.468 0 0 0 2.403-3.154a2.98 2.98 0 0 0 .847-5.274a2.47 2.47 0 0 0-.921-3.182a2.477 2.477 0 0 0-1.875-3.344A2.5 2.5 0 0 0 14.5 3A2.5 2.5 0 0 0 12 5.5m-8 5a2.5 2.5 0 0 1 3.48-2.3m-.28 8.551a3 3 0 0 1-2.953-5.185M20 10.5a2.5 2.5 0 0 0-3.481-2.3m.28 8.551a3 3 0 0 0 2.954-5.185" />
                       </svg>
                       <span><strong class="font-semibold text-gray-900">Drag Reduction System:</strong> The DRS allows drivers to achieve higher speeds by opening the rear wing and allowing more air through which reduces drag. Drivers can use this system on certain straights when they are within 1 second of the car in front. If the DRS were to fail and not open it could cost the driver the chance of overtaking and maybe even the whole grand prix. If it failed and didnt close in time, it could be dangerous for the driver and cause them to crash (2018 marcus ericsson @Monza). </span>
                     </li>
