@@ -16,7 +16,7 @@
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Abu DHabi</h3>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Abu Dhabi</h3>
           <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
