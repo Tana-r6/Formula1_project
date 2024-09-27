@@ -19,7 +19,7 @@
 <body class="h-full">
     <div class="min-h-full">
       <nav class="bg-red-600 fixed z-50 shadow-lg">
-        <div class="mx-auto min-w-[2500px] px-4 sm:px-6 lg:px-8">
+        <div class="mx-auto min-w-[3500px] px-4 sm:px-6 lg:px-8">
           <div class="flex h-20 items-center justify-between">
             <div class="flex items-center">
               <div class="flex-shrink-0">
@@ -73,34 +73,49 @@
 <footer class="bg-black text-white py-4">
   <div class="container mx-auto text-center">
     <p>&copy; 2024 F1. All rights reserved.</p>
-    <div class="flex justify-center space-x-4 mt-2">
-      <a href="/" class="hover:text-gray-400 text-white">Home</a>
-      <a href="/drivers" class="hover:text-gray-400 text-white">Drivers</a>
-      <a href="/teams" class="hover:text-gray-400 text-white">Teams</a>
-      <a href="/calendar" class="hover:text-gray-400 text-white">Calendar</a>
-      <a href="/tracks" class="hover:text-gray-400 text-white">Tracks</a>
+    <div class="flex justify-center mt-2">
+      <a href="/" class="hover:text-gray-400 text-white mx-2">Home</a>
+      <a href="/drivers" class="hover:text-gray-400 text-white mx-2">Drivers</a>
+      <a href="/teams" class="hover:text-gray-400 text-white mx-2">Teams</a>
+      <a href="/calendar" class="hover:text-gray-400 text-white mx-2">Calendar</a>
+      <a href="/tracks" class="hover:text-gray-400 text-white mx-2">Tracks</a>
     </div>
-    <div class="mt-4 flex felx-align justify-center">
+    <div class="mt-3 flex flex-align justify-center">
       <a href="https://www.facebook.com/Formula1/?locale=en_GB">
-        <svg class="h-6 w-6 text-white hover:text-gray-400 mx-3"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <svg class="h-6 w-6 text-white hover:text-blue-600 mx-3 mt-[2px]"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
           <path stroke="none" d="M0 0h24v24H0z"/>
           <path d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3" />
         </svg>
       </a>
       <a href="https://x.com/F1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
-        <svg class="h-6 w-6 text-white hover:text-gray-400 mx-3"  width="24" height="24" viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round" >
+        <svg class="h-6 w-6 text-white hover:text-gray-300 mx-3 mt-[2px]"  width="24" height="24" viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round" >
           <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
           <path d="M4 4l11.733 16h4.267l-11.733 -16z" />
           <path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772" />
         </svg> 
       </a>
       <a href="https://www.instagram.com/f1/">
-        <svg class="h-6 w-6 text-white hover:text-gray-400 mx-3"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-          <path stroke="none" d="M0 0h24v24H0z"/>
-          <rect x="4" y="4" width="16" height="16" rx="4" />
-          <circle cx="12" cy="12" r="3" />
-          <line x1="16.5" y1="7.5" x2="16.5" y2="7.501" />
+        <svg class="h-7 w-7 transition-colors duration-300 mx-3" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <defs>
+            <linearGradient id="instagramGradient" x1="0%" y1="100%" x2="100%" y2="0%">
+              <stop offset="0%" style="stop-color:#FEDA77; stop-opacity:1" /> <!-- Yellow -->
+              <stop offset="100%" style="stop-color:#D62976; stop-opacity:1" /> <!-- Purple -->
+            </linearGradient>
+          </defs>
+          <path stroke="none" d="M0 0h24v24H0z" />
+          <rect class="base" x="4" y="4" width="16" height="16" rx="4" stroke="white" fill="none" />
+          <circle class="base" cx="12" cy="12" r="3" stroke="white" fill="none" />
+          <line class="base" x1="16.5" y1="7.5" x2="16.5" y2="7.501" stroke="white" />
         </svg>
+
+        <style>
+          .base {
+            transition: stroke 0.3s ease; /* Smooth transition for the stroke */
+          }
+          svg:hover .base {
+            stroke: url(#instagramGradient); /* Change stroke to gradient on hover */
+          }
+        </style>
       </a>
     </div>
   </div>
