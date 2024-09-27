@@ -8,170 +8,170 @@
     <div class="grid gap-x-6 gap-y-6 grid-cols-4">
       
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Abu DHabi</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Abu DHabi</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Australia</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Australia</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Austria</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Austria</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Azerbaijan</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Azerbaijan</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Bahrain</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Bahrain</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Belgium</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Belgium</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Brazil</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Brazil</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Canada</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Canada</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">China</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">China</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Great Britian</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Great Britian</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Hungary</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Hungary</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div>
         <!-- Product Section -->
         <div class="container mx-auto mt-0">
-          <div class="">
-            <button id="quickViewBtn" class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+          <div class="group">
+            <button id="quickViewBtn" class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
               <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </div>
             </button>
-            <h3 class="mt-4 text-sm text-black">Italy</h3>
-            <p class="mt-1 text-lg font-medium text-black">Imola & Monza</p>
+            <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Italy</h3>
+            <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">Imola & Monza</p>
           </div>
         </div>
 
@@ -228,128 +228,128 @@
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Japan</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Japan</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Mexico</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Mexico</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Monaco</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Monaco</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Netherlands</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Netherlands</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Qatar</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Qatar</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Suadi Arabia</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Suadi Arabia</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Singapore</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Singapore</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div class="container mx-auto mt-0">
-        <div class="">
-          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+        <div class="group">
+          <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
-          <h3 class="mt-4 text-sm text-black">Spain</h3>
-          <p class="mt-1 text-lg font-medium text-black">gfgjk</p>
+          <h3 class="mt-4 text-sm text-black group-hover:text-red-600">Spain</h3>
+          <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">gfgjk</p>
         </div>
       </div>
 
       <div>
         <!-- Product Section -->
         <div class="container mx-auto mt-0">
-          <div class="">
-            <button id="quickViewBtn1" class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 pb-5">
+          <div class="group">
+            <button id="quickViewBtn1" class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
               <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
                 <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </div>
             </button>
-            <h3 class="mt-4 text-sm text-black">United States</h3>
-            <p class="mt-1 text-lg font-medium text-black">Las Vegas, Miami & Austin</p>
+            <h3 class="mt-4 text-sm text-black group-hover:text-red-600">United States</h3>
+            <p class="mt-1 text-lg font-medium text-black group-hover:text-red-600">Las Vegas, Miami & Austin</p>
           </div>
         </div>
 
