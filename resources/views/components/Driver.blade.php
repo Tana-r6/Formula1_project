@@ -18,7 +18,7 @@
 -->
 <body class="h-full">
     <div class="min-h-full">
-      <nav class="bg-red-600">
+      <nav class="bg-red-600 fixed z-50 shadow-lg">
         <div class="mx-auto max-w-15xl px-4 sm:px-6 lg:px-8">
           <div class="flex h-20 items-center justify-between">
             <div class="flex items-center">
@@ -52,6 +52,11 @@
         </div>
       </nav>
 
+      <header class="bg-white shadow">
+        <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8 max-h-[80px]">
+          <h1 class="text-3xl font-bold tracking-tight text-gray-900">{{ $heading }}</h1>
+        </div>
+      </header>
       <header class="bg-white shadow">
         <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
           <h1 class="text-3xl font-bold tracking-tight text-gray-900">{{ $heading }}</h1>
