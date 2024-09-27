@@ -19,7 +19,7 @@
 <body class="h-full">
     <div class="min-h-full">
       <nav class="bg-red-600 fixed z-50 shadow-lg">
-        <div class="mx-auto max-w-15xl px-4 sm:px-6 lg:px-8">
+        <div class="mx-auto min-w-[2500px] px-4 sm:px-6 lg:px-8">
           <div class="flex h-20 items-center justify-between">
             <div class="flex items-center">
               <div class="flex-shrink-0">

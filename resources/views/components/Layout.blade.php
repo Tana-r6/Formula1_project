@@ -23,7 +23,7 @@
           <div class="flex h-20 items-center justify-between">
             <div class="flex items-center">
               <div class="flex-shrink-0">
-                <a href="/"><img href="/" class="h-13 w-13" src="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg" alt="F1"></a>
+                <a href="/"><img class="h-13 w-13" src="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg" alt="F1"></a>
               </div>
               <div class="hidden md:block">
                 <div class="ml-10 flex items-baseline space-x-4">
