@@ -54,7 +54,7 @@
           <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
-                <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
+                <img src="https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk3MTk2ODU1NTg1NTQ3MzQ3/5654bc5e-57bf-4ecb-aa48-2547a24865f2.jpg" alt="Azerbaijan" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
@@ -68,7 +68,7 @@
           <div class="mt-4 text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-red-600 pb-5">
             <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 rounded-xl">
               <a href="/fgdu">
-                <img src="https://nationaltoday.com/wp-content/uploads/2021/06/Italian-Republic-Day.jpg" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
+                <img src="https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjA0NTQ3OTk2MjUwMDIzMjI3/si202402220297_hires_jpeg_24bit_rgb.jpg" alt="Bahrain" class="object-cover object-center w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
               </a>
             </div>
           </div>
