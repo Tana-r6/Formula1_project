@@ -12,29 +12,13 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('teams', function (Blueprint $table) {
-            $table->id('team id');
-            $table->string('link name');
+            $table->id('id');
+            $table->string('team_name');
             $table->string('colour');
-            $table->string('team name');
-            $table->string('full');
-            $table->string('logo');
-            $table->string('team flag');
-            $table->string('d1flag');
-            $table->string('d2flag');
-            $table->string('photo1');
-            $table->string('photo2');
-            $table->string('photo3');
-            $table->string('photo4');
-            $table->string('entry year');
-            $table->string('base location');
-            $table->string('current chassis');
-            $table->string('team principal');
-            $table->string('power unit');
-            $table->string('best season');
-            $table->string('cpoints');
-            $table->string('spoints');
-            $table->string('constructors championships');
-            $table->string('team bio');
+            $table->string('drivers');
+            $table->string('logo_small');
+            $table->string('car_pic');
+            $table->string('link_name');
 
         });
     }

@@ -12,16 +12,11 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('tracks', function (Blueprint $table) {
-            $table->id('track id');
-            $table->string('date of event');
-            $table->string('grand prix name');
-            $table->string('fastest lap time (holder)');
-            $table->integer('laps');
-            $table->string('flag');
+            $table->id('id');
             $table->string('country');
-            $table->string('track photo');
-            $table->string('detailed track');
-            $table->string('circuit length');
+            $table->string('flag');
+            $table->string('colour');
+            $table->string('picture');
         });
     }
 
