@@ -125,7 +125,7 @@
             <div class="ml-[6px] aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 max-w-[586px] border-r-2 border-b-2 rounded-br-lg border-black group-hover:border-blue-600">
               <img src="https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/red-bull-racing.png" alt="Red Bull" class="h-full w-[462px] mx-auto object-cover object-center relative z-0 rounded-lg transition-all duration-300 group-hover:scale-110">
             </div>
-            <div class="grid grid-cols-2 max-h-[70px] min-w-[586px] absolute top-[138px] border-l-2 border-t-2 border-black group-hover:border-blue-400 rounded-tl-lg">
+            <div class="grid grid-cols-2 max-h-[70px] min-w-[586px] absolute top-[138px] border-l-2 border-t-2 border-black group-hover:border-blue-600 rounded-tl-lg">
               <div>  
                 <h3 class="pt-4 pl-2 text-lg font-medium text-gray-900 group-hover:text-blue-600">Red Bull</h3>
                 <p class="mt-1 pl-2 text-sm text-gray-900 group-hover:text-blue-600">Sergio Perez & Max Verstappen</p>
