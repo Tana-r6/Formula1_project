@@ -1,6 +1,10 @@
 <?php
 
+
+
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\DriverController;
+
 
 Route::get('/error', function () {
     return view('Error');
@@ -14,8 +18,9 @@ Route::get('/', function () {
     return view('Home');
 });
 
-Route::get('/drivers', function () {
-    return view('Drivers');
+Route::controller(DriverController::class)->group(function () {
+    Route::get('/drivers', 'index');
+    Route::get('/drivers/{driver}', 'show');
 });
 
 

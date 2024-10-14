@@ -16,6 +16,7 @@ class DriverController extends Controller
                 'drivers' => $drivers
             ]);
     }
+    
     public function show(Driver $driver)
     {
         return view('drivers.show', ['driver' => $driver]);
