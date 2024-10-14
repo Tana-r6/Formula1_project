@@ -30,7 +30,7 @@
             <div class="grid grid-cols-2 max-h-[70px] min-w-[586px] absolute top-[137px] border-l-2 border-t-2 border-black group-hover:border-emerald-600 rounded-tl-lg">
               <div>  
                 <h3 class="pt-4 pl-2 text-lg font-medium text-gray-900 group-hover:text-emerald-600">Aston Martin</h3>
-                <p class="mt-1 pl-2 text-sm text-gray-900 group-hover:text-emerald-600">Fernando Alonso & Lance Stroll</p>
+                <p class="mt-1 pl-2 text-sm text-gray-900 group-hover:text-emerald-600">Fernando lonso & Lance Stroll</p>
               </div>
               <img src="https://media.formula1.com/content/dam/fom-website/teams/2024/aston-martin-logo.png" class="justify-self-end object-cover object-center relative z-0 rounded-lg transition-all duration-700 scale-0 group-hover:scale-110">
             </div>
