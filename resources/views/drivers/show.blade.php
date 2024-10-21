@@ -1,6 +1,6 @@
 <x-layout>
   <x-slot:heading>
-    <div>Hello</div>
+    {{ $driver->name }}
   </x-slot:heading>
         <div class="bg-white">
             <div class="pt-6">
@@ -24,7 +24,7 @@
                 <div class="mx-auto max-w-2xl px-4 pb-16 pt-10 sm:px-6 lg:grid lg:max-w-7xl lg:grid-cols-3 lg:grid-rows-[auto,auto,1fr] lg:gap-x-8 lg:px-8 lg:pb-24 lg:pt-8">
                     <div class="lg:col-span-2 lg:border-r-2 lg:border-black lg:pr-8 grid grid-cols-2 grid-rows-1">
                         <img src="" alt="flag" class="rounded-lg border-2 border-grey-700 max-h-10">
-                        <h1 class="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl justify-self-end">heading</h1>
+                        <h1 class="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl justify-self-end">{{ $driver->name }}</h1>
                     </div>
 
                     <!-- Options -->
@@ -59,7 +59,7 @@
                     </div>
                 </div>
             </div>
-          </div>
+        </div>
 
 
 </x-layout>

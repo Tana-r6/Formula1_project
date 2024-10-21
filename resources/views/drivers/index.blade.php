@@ -2,20 +2,7 @@
   <x-slot:heading>
     Drivers
   </x-slot:heading>
-  <!--
-  This example requires some changes to your config:
-  
-  ```
-  // tailwind.config.js
-  module.exports = {
-    // ...
-    plugins: [
-      // ...
-      require('@tailwindcss/aspect-ratio'),
-    ],
-  }
-  ```
--->
+
   <div class="bg-white pb-16">
     <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-3 lg:max-w-7xl lg:px-8">
       <h2 class="sr-only"></h2>
@@ -24,15 +11,15 @@
         @foreach($drivers as $driver)
           <a href="/drivers/{{ $driver['id']}}" class="group relative">
             <div class="pb-20">
-              <div class="ml-[5px] aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 max-w-[275px] border-r-2 border-b-2 rounded-br-lg border-black group-hover:border-sky-300">
+              <div class="ml-[5px] aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 max-w-[275px] border-r-2 border-b-2 rounded-br-lg border-black group-hover:border-{{ $driver->colour }}">
                 <img src="{{ $driver->potrait }}" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 rounded-lg transition-all duration-300 group-hover:scale-110">
               </div>
-              <div class="grid grid-cols-2 max-h-[70px] max-w-[275px] absolute top-[273px] border-l-2 border-t-2 border-black group-hover:border-sky-300 rounded-tl-lg">
+              <div class="grid grid-cols-2 max-h-[70px] max-w-[275px] absolute top-[273px] border-l-2 border-t-2 border-black group-hover:border-{{ $driver->colour }} rounded-tl-lg">
                 <div>
-                  <h3 class="pt-4 pl-2 text-sm text-gray-900 group-hover:text-sky-300">{{ $driver->name }}</h3>
-                  <p class="mt-1 pl-2 text-lg font-medium text-gray-900 group-hover:text-sky-300">{{ $driver->team }}</p>
+                  <h3 class="pt-4 pl-2 text-sm text-gray-900 group-hover:text-{{ $driver->colour }}">{{ $driver->name }}</h3>
+                  <p class="mt-1 pl-2 text-lg font-medium text-gray-900 group-hover:text-{{ $driver->colour }}">{{ $driver->team }}</p>
                 </div>
-                <img src="https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/ALEALB01.png" class="justify-self-end object-cover object-center relative z-0 rounded-lg transition-all duration-700 scale-0 group-hover:scale-75">
+                <img src="{{ $driver->driver_number }}" class="justify-self-end object-cover object-center relative z-0 rounded-lg transition-all duration-700 scale-0 group-hover:scale-75">
               </div>
             </div>
           </a>

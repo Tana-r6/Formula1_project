@@ -4,6 +4,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DriverController;
+use App\Http\Controllers\TeamController;
 
 
 Route::get('/error', function () {
@@ -28,8 +29,9 @@ Route::controller(DriverController::class)->group(function () {
 //    return view();
 //});
 
-Route::get('/teams', function () {
-    return view('Teams');
+Route::controller(TeamController::class)->group(function () {
+    Route::get('/teams', 'index');
+    Route::get('/teams/{team}', 'show');
 });
 
 Route::get('/calendar', function () {
@@ -39,11 +41,11 @@ Route::get('/calendar', function () {
 Route::get('/tracks', function () {
     return view('Tracks');
 });
-
-Route::get('/drivers/alex-albon', function () {
-    return view('aa23');
-});
-
+#
+#Route::get('/drivers/alex-albon', function () {
+#    return view('aa23');
+#});
+#
 Route::get('/drivers/fernando-alonso', function () {
     return view('fa14');
 });
