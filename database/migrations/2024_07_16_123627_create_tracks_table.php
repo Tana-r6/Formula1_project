@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('flag');
             $table->string('colour');
             $table->string('picture');
+            $table->string('city');
         });
     }
 
