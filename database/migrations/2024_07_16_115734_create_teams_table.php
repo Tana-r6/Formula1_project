@@ -19,6 +19,7 @@ return new class extends Migration
             $table->string('logo_small');
             $table->string('car_pic');
             $table->string('link_name');
+            $table->string('size');
 
         });
     }

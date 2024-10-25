@@ -15,10 +15,10 @@
         </video>
       </div>
       <div class="absolute inset-0 bg-gradient-to-r from-black via-black via-15% to-transparent opacity-85 group">
-        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-1000 text-8xl z-50 bottom-[560px] left-[90px]">A SPORT</h3>
-        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-1000 text-8xl z-50 bottom-[480px] left-[90px]">LIKE NO</h3>
-        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-1000 text-8xl z-50 bottom-[400px] left-[90px]">OTHER</h3>
-        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-1000 text-xl z-50 bottom-[375px] left-[96px]">Welcome to F1</h3>
+        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-[2100ms] text-8xl z-50 bottom-[560px] left-[90px]">A SPORT</h3>
+        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-[2100ms] text-8xl z-50 bottom-[480px] left-[90px]">LIKE NO</h3>
+        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-[2100ms] text-8xl z-50 bottom-[400px] left-[90px]">OTHER</h3>
+        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-[2100ms] text-xl z-50 bottom-[375px] left-[96px]">Welcome to F1</h3>
       </div>
     </div>
   </x-slot:video>

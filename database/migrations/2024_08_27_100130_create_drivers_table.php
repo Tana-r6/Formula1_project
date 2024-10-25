@@ -20,6 +20,7 @@ return new class extends Migration
             $table->string('team');
             $table->string('driver_number');
             $table->string('link_name');
+            $table->string('size');
 
         });
     }
