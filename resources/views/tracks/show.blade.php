@@ -2,6 +2,8 @@
   <x-slot:heading>
     {{ $track-> track_name }}
   </x-slot:heading>
+  <x-slot:video>
+  </x-slot:video>
         <div class="bg-white">
             <div class="pt-6">
                 <!-- Image gallery -->
