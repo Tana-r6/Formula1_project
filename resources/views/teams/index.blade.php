@@ -2,6 +2,8 @@
   <x-slot:heading>
     Teams
   </x-slot:heading>
+  <x-slot:video>
+  </x-slot:video>
 
   <div class="bg-white pb-20">
     <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-3 lg:max-w-7xl lg:px-8">

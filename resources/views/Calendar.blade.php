@@ -2,6 +2,8 @@
   <x-slot:heading>
     Calendar
   </x-slot:heading>
+  <x-slot:video>
+  </x-slot:video>
   <!DOCTYPE html>
   <html lang="en">
   <head>
