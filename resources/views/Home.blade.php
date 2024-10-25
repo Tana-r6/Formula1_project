@@ -3,6 +3,25 @@
   <x-slot:heading>
     Formula One
   </x-slot:heading>
+  <x-slot:video>
+    <div class="relative">
+      <div class="grid h-screen object-center overflow-hidden content-center bg-black">
+        <video class="w-screen" autoplay loop muted>
+          <source
+            src="{{ asset('videos/f1homevid.mp4') }}"
+            type="video/mp4"
+          />
+          Your browser does not support the video tag.
+        </video>
+      </div>
+      <div class="absolute inset-0 bg-gradient-to-r from-black via-black via-15% to-transparent opacity-85 group">
+        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-1000 text-8xl z-50 bottom-[560px] left-[90px]">A SPORT</h3>
+        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-1000 text-8xl z-50 bottom-[480px] left-[90px]">LIKE NO</h3>
+        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-1000 text-8xl z-50 bottom-[400px] left-[90px]">OTHER</h3>
+        <h3 class="absolute text-white opacity-0 group-hover:opacity-100 duration-1000 text-xl z-50 bottom-[375px] left-[96px]">Welcome to F1</h3>
+      </div>
+    </div>
+  </x-slot:video>
         <!-- 1st set, sport -->
         <div class="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
           <div class="absolute inset-0 -z-10 overflow-hidden">
