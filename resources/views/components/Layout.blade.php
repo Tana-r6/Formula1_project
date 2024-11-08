@@ -6,7 +6,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{ $heading }}</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Audiowide&display=swap" rel="stylesheet">
+    @vite(['resources/js/app.js','resources/css/app.css'])
 </head>
 <!--
   This example requires updating your template:
@@ -19,7 +22,7 @@
 <body class="h-full">
     <div class="min-h-full">
       {{ $video }}
-      <nav class="bg-red-600 sticky top-0 z-40 shadow-lg">
+      <nav class="bg-red-600 sticky top-0 z-40 shadow-xl">
         <div class="mx-auto px-4 sm:px-6 lg:px-8">
           <div class="flex h-20 items-center justify-between">
             <div class="flex items-center">
@@ -29,11 +32,11 @@
               <div class="hidden md:block">
                 <div class="ml-10 flex items-baseline space-x-4">
                   <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-                  <a href="/" class=" {{ request()->is('/') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-medium" aria-current="page">Home</a>
-                  <a href="/drivers" class=" {{ request()->is('drivers') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-medium">Drivers</a>
-                  <a href="/teams" class=" {{ request()->is('teams') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-medium">Teams</a>
-                  <a href="/calendar" class=" {{ request()->is('calendar') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-medium">Calendar</a>
-                  <a href="/tracks" class=" {{ request()->is('tracks') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-medium">Tracks</a>
+                  <a href="/" class=" {{ request()->is('/') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide" aria-current="page">Home</a>
+                  <a href="/drivers" class=" {{ request()->is('drivers') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Drivers</a>
+                  <a href="/teams" class=" {{ request()->is('teams') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Teams</a>
+                  <a href="/calendar" class=" {{ request()->is('calendar') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Calendar</a>
+                  <a href="/tracks" class=" {{ request()->is('tracks') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Tracks</a>
                 </div>
               </div>
             </div>
@@ -44,18 +47,18 @@
         <div class="md:hidden" id="mobile-menu">
           <div class="space-y-1 px-2 pb-3 pt-3 sm:px-3">
             <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-            <a href="/" class=" {{ request()->is('/') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-medium" aria-current="page">Home</a>
-            <a href="/drivers" class=" {{ request()->is('drivers') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-medium">Drivers</a>
-            <a href="/teams" class=" {{ request()->is('teams') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-medium">Teams</a>
-            <a href="/calendar" class=" {{ request()->is('calendar') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-medium">Calendar</a>
-            <a href="/tracks" class=" {{ request()->is('tracks') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-medium">Tracks</a>
+            <a href="/" class=" {{ request()->is('/') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide" aria-current="page">Home</a>
+            <a href="/drivers" class=" {{ request()->is('drivers') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Drivers</a>
+            <a href="/teams" class=" {{ request()->is('teams') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Teams</a>
+            <a href="/calendar" class=" {{ request()->is('calendar') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Calendar</a>
+            <a href="/tracks" class=" {{ request()->is('tracks') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Tracks</a>
           </div>
         </div>
       </nav>
 
       <header class="bg-white shadow">
         <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
-          <h1 class="text-3xl font-bold tracking-tight text-gray-900">{{ $heading }}</h1>
+          <h1 class="text-3xl font-audiowide tracking-tight text-gray-900">{{ $heading }}</h1>
         </div>
       </header>
       <main>
@@ -68,13 +71,13 @@
 
 <footer class="bg-black text-white py-4">
   <div class="container mx-auto text-center">
-    <p>&copy; 2024 F1. All rights reserved.</p>
+    <p class="text-xs">&copy; 2024 F1. All rights reserved.</p>
     <div class="flex justify-center mt-2">
-      <a href="/" class="hover:text-gray-400 text-white mx-2">Home</a>
-      <a href="/drivers" class="hover:text-gray-400 text-white mx-2">Drivers</a>
-      <a href="/teams" class="hover:text-gray-400 text-white mx-2">Teams</a>
-      <a href="/calendar" class="hover:text-gray-400 text-white mx-2">Calendar</a>
-      <a href="/tracks" class="hover:text-gray-400 text-white mx-2">Tracks</a>
+      <a href="/" class="hover:text-gray-400 text-white mx-2 font-audiowide">Home</a>
+      <a href="/drivers" class="hover:text-gray-400 text-white mx-2 font-audiowide">Drivers</a>
+      <a href="/teams" class="hover:text-gray-400 text-white mx-2 font-audiowide">Teams</a>
+      <a href="/calendar" class="hover:text-gray-400 text-white mx-2 font-audiowide">Calendar</a>
+      <a href="/tracks" class="hover:text-gray-400 text-white mx-2 font-audiowide">Tracks</a>
     </div>
     <div class="mt-3 flex flex-align justify-center">
       <a href="https://www.facebook.com/Formula1/?locale=en_GB">

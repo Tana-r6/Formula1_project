@@ -1,6 +1,6 @@
 <x-layout>
   <x-slot:heading>
-    {{ $track-> track_name }}
+    {{ $track->city }}
   </x-slot:heading>
   <x-slot:video>
   </x-slot:video>
@@ -40,13 +40,13 @@
                         <img src=$logo class="rounded-lg max-h-20 col-span-2 justify-self-end">
                       </div>
                       <p class="text-xl tracking-tight text-black pt-2 pb-5">First track Entry:</p>
-                      <p class="text-xl tracking-tight text-black pb-5">Base Location:</p>
-                      <p class="text-xl tracking-tight text-black pb-5">Chassis:</p>
-                      <p class="text-xl tracking-tight text-black pb-5">track Principal:</p>
-                      <p class="text-xl tracking-tight text-black pb-5">Power Unit:</p>
-                      <p class="text-xl tracking-tight text-black pb-5">Best Season:</p>
-                      <p class="text-xl tracking-tight text-black pb-5">Season Points:</p>
-                      <p class="text-xl tracking-tight text-black pb-5">Constructors Championships:</p>
+                      <p class="text-xl tracking-tight text-black pb-5"><strong class="font-audiowide font-light">Base Location: </strong>1</p>
+                      <p class="text-xl tracking-tight text-black pb-5"><strong class="font-audiowide font-light">Chassis: </strong>2</p>
+                      <p class="text-xl tracking-tight text-black pb-5"><strong class="font-audiowide font-light">track Principal: </strong>3</p>
+                      <p class="text-xl tracking-tight text-black pb-5"><strong class="font-audiowide font-light">Power Unit: </strong>4</p>
+                      <p class="text-xl tracking-tight text-black pb-5"><strong class="font-audiowide font-light">Best Season: </strong>5</p>
+                      <p class="text-xl tracking-tight text-black pb-5"><strong class="font-audiowide font-light">Season Points: </strong>6</p>
+                      <p class="text-xl tracking-tight text-black pb-5"><strong class="font-audiowide font-light">Constructors Championships: </strong>7</p>
                     </div>
 
                     <div class="py-10 lg:col-span-2 lg:col-start-1 lg:border-r-2 lg:border-{{ $track->colour }} lg:pb-0 lg:pr-8 lg:pt-6">
