@@ -19,8 +19,8 @@
                 </div>
                 <div class="grid grid-cols-5 pt-4">
                   <div class="items-center col-span-2">
-                    <h3 class="mx-2 text-md text-gray-600 group-hover:text-{{ $track->colour }}">{{ $track->country }}</h3>
-                    <p class="mx-2 text-xl font-medium text-gray-600 group-hover:text-{{ $track->colour }}">{{ $track->city }}</p>
+                    <h3 class="mx-2 text-md group-hover:text-xl group-hover:font-medium text-gray-600 group-hover:text-{{ $track->colour }} duration-300 ease-in-out">{{ $track->country }}</h3>
+                    <p class="mx-2 text-xl font-medium group-hover:text-sm group-hover:font-normal text-gray-600 group-hover:text-{{ $track->colour }} duration-300 ease-in-out">{{ $track->city }}</p>
                   </div>
                   <img src="{{ $track->layout }}" class="col-start-3 rounded-lg">
                   <img src="{{ $track->flag }}" class="mx-2 col-start-4 col-span-2 justify-self-end rounded-lg border-2 max-h-11">

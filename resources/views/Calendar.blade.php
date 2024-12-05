@@ -12,7 +12,7 @@
     </style>
   </head>
   <body class="bg-gray-100">
-
+    <h1 class="justify-self-center text-3xl font-audiowide text-red-600 py-3">There are no more events, see you next season!</h1>
     <div class="container mx-auto mt-2 mb-8 shadow-xl rounded-lg">
       <div class="bg-white rounded-lg shadow overflow-hidden">
         <div class="flex items-center justify-between py-2 px-6 bg-red-600 border-b">

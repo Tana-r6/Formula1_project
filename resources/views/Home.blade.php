@@ -81,9 +81,6 @@
                       <span><strong class="font-audiowide text-black">Expensive: </strong>F1 is the most expensive sport in the world, with the cars being worth upwards of £15,000,000 and parts like the steering wheel are £50,000. Each team has £135,000,000 to spend a year for upgrading the car to reach its potential. Drivers have huge paychecks ranging from £1,000,000 for the lesser drivers and £55,000,000 for drivers like Lewis Hamilton.</span>
                     </li>
                   </ul>
-                  <p class="mt-8">Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.</p>
-                  <h2 class="mt-16 text-2xl font-audiowide tracking-tight text-black">No server? No problem.</h2>
-                  <p class="mt-6">Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam consequat in. Convallis arcu ipsum urna nibh. Pharetra, euismod vitae interdum mauris enim, consequat. Maecenas pellentesque id sed tellus mauris, ultrices mauris. Tincidunt enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam turpis ipsum eu a sed convallis diam.</p>
                 </div>
               </div>
             </div>
@@ -150,9 +147,6 @@
                       <span><strong class="font-audiowide text-black">Determination: </strong>Determination is at the core of every Formula 1 driver’s mindset. From the start of their career in karting, hoping for a seat in the higher leagues. To the relentless pursuit of perfection, even in the face of setbacks, defines their approach to racing. Whether recovering from a crash, adapting to a new track, or overcoming mechanical failures, F1 drivers display an unwavering commitment to pushing their limits. Their dedication to constant improvement, both on and off the track, drives them to train tirelessly, refine their skills, and maintain focus under extreme pressure. This determination is what fuels their ability to perform at the highest level, where every fraction of a second counts and the margin for error is razor-thin.</span>
                     </li>
                   </ul>
-                  <p class="mt-8">Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.</p>
-                  <h2 class="mt-16 text-2xl font-audiowide tracking-tight text-black">No server? No problem.</h2>
-                  <p class="mt-6">Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam consequat in. Convallis arcu ipsum urna nibh. Pharetra, euismod vitae interdum mauris enim, consequat. Maecenas pellentesque id sed tellus mauris, ultrices mauris. Tincidunt enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam turpis ipsum eu a sed convallis diam.</p>
                 </div>
               </div>
             </div>
@@ -219,9 +213,6 @@
                       <span><strong class="font-audiowide text-black">Costs: </strong>Managing costs is a critical aspect of success in Formula 1, where teams operate with limited budgets and must maximize the efficiency of their resources. Every element of an F1 team’s operation—from car development, equipment, and travel expenses, to staff salaries and research—must be carefully managed to stay within financial constraints. Teams must make strategic decisions about where to allocate resources, often prioritizing key areas such as car performance and technology upgrades, while finding ways to cut costs in other areas, like logistics and non-essential staff. The introduction of cost caps in recent years has further emphasized the importance of financial management, as teams now must balance innovation with budget restrictions. Properly managing costs ensures that a team remains competitive while also achieving long-term financial sustainability in a sport where the margins between success and failure are razor-thin.</span>
                     </li>
                   </ul>
-                  <p class="mt-8">Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.</p>
-                  <h2 class="mt-16 text-2xl font-audiowide tracking-tight text-black">No server? No problem.</h2>
-                  <p class="mt-6">Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam consequat in. Convallis arcu ipsum urna nibh. Pharetra, euismod vitae interdum mauris enim, consequat. Maecenas pellentesque id sed tellus mauris, ultrices mauris. Tincidunt enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam turpis ipsum eu a sed convallis diam.</p>
                 </div>
               </div>
             </div>
@@ -317,9 +308,6 @@
                       <span><strong class="font-audiowide text-black">Marketing and PR: </strong>The marketing and PR team is crucial in shaping the public image of the team, managing relationships with sponsors, the media, and fans. They create campaigns that build brand awareness, promote the team’s achievements, and engage with the wider audience. Sponsorships are a key source of funding for F1 teams, and the PR team works to maintain strong relationships with sponsors and partners. Additionally, they handle crisis communication and manage the team's image during both successes and setbacks. The marketing team ensures that the team maintains visibility and popularity, contributing to long-term success both financially and reputationally.</span>
                     </li>
                   </ul>
-                  <p class="mt-8">Each role is essential in the high-pressure, fast-paced environment of Formula 1, where every detail counts in the pursuit of victory.</p>
-                  <h2 class="mt-16 text-2xl font-audiowide tracking-tight text-black">No server? No problem.</h2>
-                  <p class="mt-6">Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam consequat in. Convallis arcu ipsum urna nibh. Pharetra, euismod vitae interdum mauris enim, consequat. Maecenas pellentesque id sed tellus mauris, ultrices mauris. Tincidunt enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam turpis ipsum eu a sed convallis diam.</p>
                 </div>
               </div>
             </div>

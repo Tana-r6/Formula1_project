@@ -18,8 +18,8 @@
               </div>
               <div class="grid grid-cols-3 max-h-[70px] min-w-[570px] max-w-[584px] absolute top-[{{ $team->size }}px] border-l-2 border-t-2 border-black group-hover:border-{{ $team->colour }} rounded-tl-lg">
                 <div class="col-span-2">  
-                  <h3 class="pt-4 pl-2 text-sm group-hover:text-lg group-hover:font-medium text-gray-900 group-hover:text-{{ $team->colour }} duration-300 ease-in-out">{{ $team->team_name }}</h3>
-                  <p class="mt-1 pl-2 text-lg font-medium group-hover:text-sm group-hover:font-normal text-gray-900 group-hover:text-{{ $team->colour }} duration-300 ease-in-out">{{ $team->drivers }}</p>
+                  <h3 class="pt-4 pl-2 text-sm group-hover:text-lg group-hover:font-medium text-black group-hover:text-{{ $team->colour }} duration-300 ease-in-out">{{ $team->team_name }}</h3>
+                  <p class="mt-1 pl-2 text-lg font-medium group-hover:text-sm group-hover:font-normal text-black group-hover:text-{{ $team->colour }} duration-300 ease-in-out">{{ $team->drivers }}</p>
                 </div>
                 <img src="{{ $team->logo_small }}" class="justify-self-end object-cover object-center relative z-0 rounded-lg transition-all duration-700 scale-0 group-hover:scale-110">
               </div>
