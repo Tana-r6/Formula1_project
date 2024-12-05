@@ -20,23 +20,45 @@
   ```
 -->
 <body class="h-full">
+
+    <!-- styling, always hidden -->
+    <div class="hover:text-blue-400 text-blue-400 border-2 border-blue-400 bg-blue-400 [&::-webkit-scrollbar-track]:bg-blue-400 [&::-webkit-scrollbar-thumb]:bg-blue-400 dark:[&::-webkit-scrollbar-track]:bg-blue-400 dark:[&::-webkit-scrollbar-thumb]:bg-blue-400 hidden">hello</div>
+    <div class="hover:text-blue-600 text-blue-600 border-2 border-blue-600 bg-blue-600 [&::-webkit-scrollbar-track]:bg-blue-600 [&::-webkit-scrollbar-thumb]:bg-blue-600 dark:[&::-webkit-scrollbar-track]:bg-blue-600 dark:[&::-webkit-scrollbar-thumb]:bg-blue-600 hidden">hello</div>
+    <div class="hover:text-blue-900 text-blue-900 border-2 border-blue-900 bg-blue-900 [&::-webkit-scrollbar-track]:bg-blue-900 [&::-webkit-scrollbar-thumb]:bg-blue-900 dark:[&::-webkit-scrollbar-track]:bg-blue-900 dark:[&::-webkit-scrollbar-thumb]:bg-blue-900 hidden">hello</div>
+    <div class="hover:text-cyan-500 text-cyan-500 border-2 border-cyan-500 bg-cyan-500 [&::-webkit-scrollbar-track]:bg-cyan-500 [&::-webkit-scrollbar-thumb]:bg-cyan-500 dark:[&::-webkit-scrollbar-track]:bg-cyan-500 dark:[&::-webkit-scrollbar-thumb]:bg-cyan-500 hidden">hello</div>
+    <div class="hover:text-sky-300 text-sky-300 border-2 border-sky-300 bg-sky-300 [&::-webkit-scrollbar-track]:bg-sky-300 [&::-webkit-scrollbar-thumb]:bg-sky-300 dark:[&::-webkit-scrollbar-track]:bg-sky-300 dark:[&::-webkit-scrollbar-thumb]:bg-sky-300 hidden">hello</div>
+    <div class="hover:text-sky-600 text-sky-600 border-2 border-sky-600 bg-sky-600 [&::-webkit-scrollbar-track]:bg-sky-600 [&::-webkit-scrollbar-thumb]:bg-sky-600 dark:[&::-webkit-scrollbar-track]:bg-sky-600 dark:[&::-webkit-scrollbar-thumb]:bg-sky-600 hidden">hello</div>
+    <div class="hover:text-teal-300 text-teal-300 border-2 border-teal-300 bg-teal-300 [&::-webkit-scrollbar-track]:bg-teal-300 [&::-webkit-scrollbar-thumb]:bg-teal-300 dark:[&::-webkit-scrollbar-track]:bg-teal-300 dark:[&::-webkit-scrollbar-thumb]:bg-teal-300 hidden">hello</div>
+    <div class="hover:text-violet-950 text-violet-950 border-2 border-violet-950 bg-violet-950 [&::-webkit-scrollbar-track]:bg-violet-950 [&::-webkit-scrollbar-thumb]:bg-violet-950 dark:[&::-webkit-scrollbar-track]:bg-violet-950 dark:[&::-webkit-scrollbar-thumb]:bg-violet-950 hidden">hello</div>
+    <div class="hover:text-emerald-600 text-emerald-600 border-2 border-emerald-600 bg-emerald-600 [&::-webkit-scrollbar-track]:bg-emerald-600 [&::-webkit-scrollbar-thumb]:bg-emerald-600 dark:[&::-webkit-scrollbar-track]:bg-emerald-600 dark:[&::-webkit-scrollbar-thumb]:bg-emerald-600 hidden">hello</div>
+    <div class="hover:text-emerald-700 text-emerald-700 border-2 border-emerald-700 bg-emerald-700 [&::-webkit-scrollbar-track]:bg-emerald-700 [&::-webkit-scrollbar-thumb]:bg-emerald-700 dark:[&::-webkit-scrollbar-track]:bg-emerald-700 dark:[&::-webkit-scrollbar-thumb]:bg-emerald-700 hidden">hello</div>
+    <div class="hover:text-emerald-800 text-emerald-800 border-2 border-emerald-800 bg-emerald-800 [&::-webkit-scrollbar-track]:bg-emerald-800 [&::-webkit-scrollbar-thumb]:bg-emerald-800 dark:[&::-webkit-scrollbar-track]:bg-emerald-800 dark:[&::-webkit-scrollbar-thumb]:bg-emerald-800 hidden">hello</div>
+    <div class="hover:text-green-400 text-green-400 border-2 border-green-400 bg-green-400 [&::-webkit-scrollbar-track]:bg-green-400 [&::-webkit-scrollbar-thumb]:bg-green-400 dark:[&::-webkit-scrollbar-track]:bg-green-400 dark:[&::-webkit-scrollbar-thumb]:bg-green-400 hidden">hello</div>
+    <div class="hover:text-green-600 text-green-600 border-2 border-green-600 bg-green-600 [&::-webkit-scrollbar-track]:bg-green-600 [&::-webkit-scrollbar-thumb]:bg-green-600 dark:[&::-webkit-scrollbar-track]:bg-green-600 dark:[&::-webkit-scrollbar-thumb]:bg-green-600 hidden">hello</div>
+    <div class="hover:text-red-600 text-red-600 border-2 border-red-600 bg-red-600 [&::-webkit-scrollbar-track]:bg-red-600 [&::-webkit-scrollbar-thumb]:bg-red-600 dark:[&::-webkit-scrollbar-track]:bg-red-600 dark:[&::-webkit-scrollbar-thumb]:bg-red-600 hidden">hello</div>
+    <div class="hover:text-rose-600 text-rose-600 border-2 border-rose-600 bg-rose-600 [&::-webkit-scrollbar-track]:bg-rose-600 [&::-webkit-scrollbar-thumb]:bg-rose-600 dark:[&::-webkit-scrollbar-track]:bg-rose-600 dark:[&::-webkit-scrollbar-thumb]:bg-rose-600 hidden">hello</div>
+    <div class="hover:text-rose-900 text-rose-900 border-2 border-rose-900 bg-rose-900 [&::-webkit-scrollbar-track]:bg-rose-900 [&::-webkit-scrollbar-thumb]:bg-rose-900 dark:[&::-webkit-scrollbar-track]:bg-rose-900 dark:[&::-webkit-scrollbar-thumb]:bg-rose-900 hidden">hello</div>
+    <div class="hover:text-orange-500 text-orange-500 border-2 border-orange-500 bg-orange-500 [&::-webkit-scrollbar-track]:bg-orange-500 [&::-webkit-scrollbar-thumb]:bg-orange-500 dark:[&::-webkit-scrollbar-track]:bg-orange-500 dark:[&::-webkit-scrollbar-thumb]:bg-orange-500 hidden">hello</div>
+    <div class="hover:text-yellow-300 text-yellow-300 border-2 border-yellow-300 bg-yellow-300 [&::-webkit-scrollbar-track]:bg-yellow-300 [&::-webkit-scrollbar-thumb]:bg-yellow-300 dark:[&::-webkit-scrollbar-track]:bg-yellow-300 dark:[&::-webkit-scrollbar-thumb]:bg-yellow-300 hidden">hello</div>
+    <div class="hover:text-yellow-400 text-yellow-400 border-2 border-yellow-400 bg-yellow-400 [&::-webkit-scrollbar-track]:bg-yellow-400 [&::-webkit-scrollbar-thumb]:bg-yellow-400 dark:[&::-webkit-scrollbar-track]:bg-yellow-400 dark:[&::-webkit-scrollbar-thumb]:bg-yellow-400 hidden">hello</div>
+    <div class="hover:text-gray-400 text-gray-400 border-2 border-gray-400 bg-gray-400 [&::-webkit-scrollbar-track]:bg-gray-400 [&::-webkit-scrollbar-thumb]:bg-gray-400 dark:[&::-webkit-scrollbar-track]:bg-gray-400 dark:[&::-webkit-scrollbar-thumb]:bg-gray-400 hidden">hello</div>
+
+    <!--main -->
     <div class="min-h-full">
       {{ $video }}
       <nav class="bg-red-600 sticky top-0 z-40 shadow-xl">
         <div class="mx-auto px-4 sm:px-6 lg:px-8">
-          <div class="flex h-20 items-center justify-between">
-            <div class="flex items-center">
-              <div class="flex-shrink-0">
-                <a href="/"><img class="h-13 w-13" src="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg" alt="F1"></a>
-              </div>
+          <div class="grid h-20 items-center justify-between grid-cols-3">
+            <div class="w-[320px]">
+              <a href="/"><img class="h-13 w-13" src="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg" alt="F1"></a>
+            </div>
+            <div class="flex items-center justify-self-center">
               <div class="hidden md:block">
-                <div class="ml-10 flex items-baseline space-x-4">
-                  <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-                  <a href="/" class=" {{ request()->is('/') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide" aria-current="page">Home</a>
-                  <a href="/drivers" class=" {{ request()->is('drivers') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Drivers</a>
-                  <a href="/teams" class=" {{ request()->is('teams') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Teams</a>
-                  <a href="/calendar" class=" {{ request()->is('calendar') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Calendar</a>
-                  <a href="/tracks" class=" {{ request()->is('tracks') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Tracks</a>
+                <div class="items-center space-x-4">
+                  <a href="/drivers" class=" {{ request()->is('drivers') ? 'text-white': 'rounded-md inline-block after:duration-1000 after:block after:h-0.5 after:w-full after:origin-bottom-right after:scale-x-0 after:bg-white after:transition-transform after:hover:origin-bottom-left after:hover:scale-x-100 hover:text-white transition-all duration-300 ease-in-out'}} rounded-md px-3 py-2 text-sm font-audiowide">Drivers</a>
+                  <a href="/teams" class=" {{ request()->is('teams') ? 'text-white': 'rounded-md inline-block after:duration-1000 after:block after:h-0.5 after:w-full after:origin-bottom-right after:scale-x-0 after:bg-white after:transition-transform after:hover:origin-bottom-left after:hover:scale-x-100 hover:text-white transition-all duration-300 ease-in-out'}} rounded-md px-3 py-2 text-sm font-audiowide">Teams</a>
+                  <a href="/calendar" class=" {{ request()->is('calendar') ? 'text-white': 'rounded-md inline-block after:duration-1000 after:block after:h-0.5 after:w-full after:origin-bottom-right after:scale-x-0 after:bg-white after:transition-transform after:hover:origin-bottom-left after:hover:scale-x-100 hover:text-white transition-all duration-300 ease-in-out'}} rounded-md px-3 py-2 text-sm font-audiowide">Calendar</a>
+                  <a href="/tracks" class=" {{ request()->is('tracks') ? 'text-white': 'rounded-md inline-block after:duration-1000 after:block after:h-0.5 after:w-full after:origin-bottom-right after:scale-x-0 after:bg-white after:transition-transform after:hover:origin-bottom-left after:hover:scale-x-100 hover:text-white transition-all duration-300 ease-in-out'}} rounded-md px-3 py-2 text-sm font-audiowide">Tracks</a>
                 </div>
               </div>
             </div>
@@ -46,19 +68,17 @@
         <!-- Mobile menu, show/hide based on menu state. -->
         <div class="md:hidden" id="mobile-menu">
           <div class="space-y-1 px-2 pb-3 pt-3 sm:px-3">
-            <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-            <a href="/" class=" {{ request()->is('/') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide" aria-current="page">Home</a>
-            <a href="/drivers" class=" {{ request()->is('drivers') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Drivers</a>
-            <a href="/teams" class=" {{ request()->is('teams') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Teams</a>
-            <a href="/calendar" class=" {{ request()->is('calendar') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Calendar</a>
-            <a href="/tracks" class=" {{ request()->is('tracks') ? 'bg-gray-900 text-white': 'text-white hover:bg-red-700 hover:text-gray-200'}} rounded-md px-3 py-2 text-sm font-audiowide">Tracks</a>
+            <a href="/drivers" class=" {{ request()->is('drivers') ? 'bg-black text-white': 'rounded-md inline-block after:duration-1000 after:block after:h-0.5 after:w-full after:origin-bottom-right after:scale-x-0 after:bg-white after:transition-transform after:hover:origin-bottom-left after:hover:scale-x-100 hover:text-white transition-all duration-300 ease-in-out'}} rounded-md px-3 py-2 text-sm font-audiowide">Drivers</a>
+            <a href="/teams" class=" {{ request()->is('teams') ? 'bg-black text-white': 'rounded-md inline-block after:duration-1000 after:block after:h-0.5 after:w-full after:origin-bottom-right after:scale-x-0 after:bg-white after:transition-transform after:hover:origin-bottom-left after:hover:scale-x-100 hover:text-white transition-all duration-300 ease-in-out'}} rounded-md px-3 py-2 text-sm font-audiowide">Teams</a>
+            <a href="/calendar" class=" {{ request()->is('calendar') ? 'bg-black text-white': 'rounded-md inline-block after:duration-1000 after:block after:h-0.5 after:w-full after:origin-bottom-right after:scale-x-0 after:bg-white after:transition-transform after:hover:origin-bottom-left after:hover:scale-x-100 hover:text-white transition-all duration-300 ease-in-out'}} rounded-md px-3 py-2 text-sm font-audiowide">Calendar</a>
+            <a href="/tracks" class=" {{ request()->is('tracks') ? 'bg-black text-white': 'rounded-md inline-block after:duration-1000 after:block after:h-0.5 after:w-full after:origin-bottom-right after:scale-x-0 after:bg-white after:transition-transform after:hover:origin-bottom-left after:hover:scale-x-100 hover:text-white transition-all duration-300 ease-in-out'}} rounded-md px-3 py-2 text-sm font-audiowide">Tracks</a>
           </div>
         </div>
       </nav>
 
       <header class="bg-white shadow">
         <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
-          <h1 class="text-3xl font-audiowide tracking-tight text-gray-900">{{ $heading }}</h1>
+          <h1 class="text-3xl font-audiowide tracking-tight text-black">{{ $heading }}</h1>
         </div>
       </header>
       <main>

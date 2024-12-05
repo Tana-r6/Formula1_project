@@ -20,7 +20,28 @@ return new class extends Migration
             $table->string('car_pic');
             $table->string('link_name');
             $table->string('size');
-
+            $table->string('pic1');
+            $table->string('pic2');
+            $table->string('pic3');
+            $table->string('pic4');
+            $table->string('d1flag');
+            $table->string('d2flag');
+            $table->string('complogo');
+            $table->string('d1id');
+            $table->string('d2id');
+            $table->string('full');
+            $table->string('entry');
+            $table->string('base');
+            $table->string('chassis');
+            $table->string('principal');
+            $table->string('powerunit');
+            $table->string('best');
+            $table->string('spoints');
+            $table->string("wcc");
+            $table->string("bio");
+            $table->string("driver1");    
+            $table->string("driver2");
+            $table->string("flag");
         });
     }
 

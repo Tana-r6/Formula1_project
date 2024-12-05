@@ -56,7 +56,7 @@
               <div class="text-gray-500 font-audiowide text-sm uppercase tracking-wide text-center">Sun</div>
             </div>
           </div>
-          <div id="calendarDays" class="flex flex-wrap border-t border-r min-h-[650px]">
+          <div id="calendarDays" class="flex flex-wrap border-t border-r min-h-[450px]">
             <!-- Days will be populated here by JavaScript -->
           </div>
         </div>

@@ -21,6 +21,20 @@ return new class extends Migration
             $table->string('driver_number');
             $table->string('link_name');
             $table->string('size');
+            $table->string('pic1');
+            $table->string('pic2');
+            $table->string('pic3');
+            $table->string('pic4');
+            $table->string('flag');
+            $table->string('team_id');
+            $table->string('age');
+            $table->string('debut');
+            $table->string('best');
+            $table->string('podiums');
+            $table->string('cpoints');
+            $table->string('spoints');
+            $table->string("wdc");
+            $table->string("bio");
 
         });
     }

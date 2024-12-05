@@ -14,30 +14,30 @@ return new class extends Migration
     {
         Schema::create('results', function (Blueprint $table) {
             $table->foreignid('driver id')->nullable();
-            $table->integer('bahrain position')->nullable();
-            $table->integer('suadi arabia position')->nullable();
-            $table->integer('australia position')->nullable();
-            $table->integer('azerbaijan position')->nullable();
-            $table->integer('miami position')->nullable();
-            $table->integer('monaco position')->nullable();
-            $table->integer('spain position')->nullable();
-            $table->integer('canada position')->nullable();
-            $table->integer('austria position')->nullable();
-            $table->integer('great britain position')->nullable();
-            $table->integer('hungary position')->nullable();
-            $table->integer('belgium position')->nullable();
-            $table->integer('netherlands position')->nullable();
-            $table->integer('italy position')->nullable();
-            $table->integer('singapore position')->nullable();
-            $table->integer('japan position')->nullable();
-            $table->integer('qatar position')->nullable();
-            $table->integer('usa position')->nullable();
-            $table->integer('mexico position')->nullable();
-            $table->integer('brazil position')->nullable();
-            $table->integer('las vegas position')->nullable();
-            $table->integer('abu dhabi position')->nullable();
-            $table->integer('monza position')->nullable();
-            $table->integer('china position')->nullable();
+            $table->string('1')->nullable();
+            $table->string('2')->nullable();
+            $table->string('3')->nullable();
+            $table->string('4')->nullable();
+            $table->string('5')->nullable();
+            $table->string('6')->nullable();
+            $table->string('7')->nullable();
+            $table->string('8')->nullable();
+            $table->string('9')->nullable();
+            $table->string('10')->nullable();
+            $table->string('11')->nullable();
+            $table->string('12')->nullable();
+            $table->string('13')->nullable();
+            $table->string('14')->nullable();
+            $table->string('15')->nullable();
+            $table->string('16')->nullable();
+            $table->string('17')->nullable();
+            $table->string('18')->nullable();
+            $table->string('19')->nullable();
+            $table->string('20')->nullable();
+            $table->string('21')->nullable();
+            $table->string('22')->nullable();
+            $table->string('23')->nullable();
+            $table->string('24')->nullable();
         });
     }
 

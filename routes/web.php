@@ -13,7 +13,7 @@ Route::fallback(function () {
 });
 
 Route::get('/', function () {
-    return view('Home');
+    return view('home');
 });
 
 Route::controller(DriverController::class)->group(function () {
@@ -32,5 +32,9 @@ Route::controller(TrackController::class)->group(function () {
 });
 
 Route::get('/calendar', function () {
-    return view('Calendar');
+    return view('calendar');
+});
+
+Route::get('/styling', function () {
+    return view('styling');
 });

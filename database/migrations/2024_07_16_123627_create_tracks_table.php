@@ -18,6 +18,24 @@ return new class extends Migration
             $table->string('colour');
             $table->string('picture');
             $table->string('city');
+            $table->string('pic1');
+            $table->string('pic2');
+            $table->string('pic3');
+            $table->string('pic4');
+            $table->string('layout');
+            $table->string('detailed');
+            $table->string('length');
+            $table->string("gplength");
+            $table->string('full');
+            $table->string('turns');
+            $table->string('record');
+            $table->string('entry');
+            $table->string('laps');
+            $table->string('gpname');
+            $table->string("bio");
+            $table->string("gps");
+            $table->string("winners");
+
         });
     }
 
