@@ -6,6 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{ $heading }}</title>
+    <link rel="icon" href="{{ asset('images/f1_logo.svg') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Audiowide&display=swap" rel="stylesheet">
@@ -100,20 +101,20 @@
       <a href="/tracks" class="hover:text-gray-400 text-white mx-2 font-audiowide">Tracks</a>
     </div>
     <div class="mt-3 flex flex-align justify-center">
-      <a href="https://www.facebook.com/Formula1/?locale=en_GB">
+      <a href="https://www.facebook.com/Formula1/?locale=en_GB" target="_blank">
         <svg class="h-6 w-6 text-white hover:text-blue-600 mx-3 mt-[2px]"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
           <path stroke="none" d="M0 0h24v24H0z"/>
           <path d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3" />
         </svg>
       </a>
-      <a href="https://x.com/F1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+      <a href="https://x.com/F1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">
         <svg class="h-6 w-6 text-white hover:text-gray-300 mx-3 mt-[2px]"  width="24" height="24" viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round" >
           <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
           <path d="M4 4l11.733 16h4.267l-11.733 -16z" />
           <path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772" />
         </svg> 
       </a>
-      <a href="https://www.instagram.com/f1/">
+      <a href="https://www.instagram.com/f1/" target="_blank">
         <svg class="h-7 w-7 transition-colors duration-300 mx-3" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <defs>
             <linearGradient id="instagramGradient" x1="0%" y1="100%" x2="100%" y2="0%">
@@ -135,6 +136,12 @@
             stroke: url(#instagramGradient); /* Change stroke to gradient on hover */
           }
         </style>
+      </a>
+      <a href="https://www.youtube.com/F1" target="_blank">
+        <svg class="h-6 w-6 text-white hover:text-red-600 mx-3 mt-[2px]"  width="24" height="24" viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round" >
+          <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z" />  
+          <polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02" />
+        </svg> 
       </a>
     </div>
   </div>
