@@ -35,6 +35,7 @@ return new class extends Migration
             $table->string("bio");
             $table->string("gps");
             $table->string("winners");
+            $table->string("link_name")->unique();
 
         });
     }

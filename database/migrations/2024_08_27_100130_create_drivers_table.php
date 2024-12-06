@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('potrait');
             $table->string('team');
             $table->string('driver_number');
-            $table->string('link_name');
+            $table->string('link_name')->unique();
             $table->string('size');
             $table->string('pic1');
             $table->string('pic2');

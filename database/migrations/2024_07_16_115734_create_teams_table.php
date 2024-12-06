@@ -18,7 +18,7 @@ return new class extends Migration
             $table->string('drivers');
             $table->string('logo_small');
             $table->string('car_pic');
-            $table->string('link_name');
+            $table->string('link_name')->unique();
             $table->string('size');
             $table->string('pic1');
             $table->string('pic2');

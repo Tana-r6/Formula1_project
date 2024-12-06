@@ -9,7 +9,7 @@
     <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-3 lg:max-w-7xl lg:px-8">
       <div class="grid gap-x-6 gap-y-6 grid-cols-3">
         @foreach($tracks as $track)
-          <a href="/tracks/{{ $track['id']}}">
+          <a href="/tracks/{{ $track->link_name }}">
             <div class="container mx-auto mt-0">
               <div class="group">
                 <div class="text-black w-full relative h-auto overflow-hidden border-b-2 border-gray-400 group-hover:border-{{ $track->colour }} pb-5">

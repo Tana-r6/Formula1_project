@@ -11,7 +11,7 @@
 
       <div class="grid grid-cols-1 gap-x-6 gap-y-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-2 xl:gap-x-8">
         @foreach($teams as $team)
-          <a href="/teams/{{ $team['id']}}" class="group relative">
+          <a href="/teams/{{ $team->link_name }}" class="group relative">
             <div class="pb-20">
               <div class="ml-[6px] aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 max-w-[586px] border-r-2 border-b-2 rounded-br-lg border-black group-hover:border-{{ $team->colour }}">
                 <img src="{{ $team->car_pic }}" alt="{{ $team->team_name }}" class="h-full w-[462px] mx-auto object-cover object-center relative z-0 rounded-lg transition-all duration-300 group-hover:scale-110">

@@ -18,17 +18,17 @@ Route::get('/', function () {
 
 Route::controller(DriverController::class)->group(function () {
     Route::get('/drivers', 'index');
-    Route::get('/drivers/{driver}', 'show');
+    Route::get('/drivers/{driver:link_name}', 'show');
 });
 
 Route::controller(TeamController::class)->group(function () {
     Route::get('/teams', 'index');
-    Route::get('/teams/{team}', 'show');
+    Route::get('/teams/{team:link_name}', 'show');
 });
 
 Route::controller(TrackController::class)->group(function () {
     Route::get('/tracks', 'index');
-    Route::get('/tracks/{track}', 'show');
+    Route::get('/tracks/{track:link_name}', 'show');
 });
 
 Route::get('/calendar', function () {

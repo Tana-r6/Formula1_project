@@ -11,7 +11,7 @@
 
       <div class="grid grid-cols-1 gap-x-6 gap-y-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
         @foreach($drivers as $driver)
-          <a href="/drivers/{{ $driver['id']}}" class="group relative">
+          <a href="/drivers/{{ $driver->link_name }}" class="group relative">
             <div class="pb-20">
               <div class="ml-[5px] aspect-h-1 aspect-w-1 w-full overflow-hidden xl:aspect-h-8 xl:aspect-w-7 max-w-[275px] border-r-2 border-b-2 rounded-br-lg border-black group-hover:border-{{ $driver->colour }}">
                 <img src="{{ $driver->potrait }}" alt="Alex Albon" class="object-cover object-center w-full h-auto relative z-0 rounded-lg transition-all duration-300 group-hover:scale-110">
